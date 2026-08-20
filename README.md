@@ -1,4 +1,3 @@
 # 🎯 Classmoji Empty Repository
 
-An empty repository.
-“# Hello git”
+# Hello git
